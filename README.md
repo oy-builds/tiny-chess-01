@@ -1,7 +1,11 @@
+[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![rank](https://make.fun/badge/tiny-chess-01/oy-builds/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![reward](https://make.fun/badge/tiny-chess-01/oy-builds/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+
 # Tiny Chess
 
 A complete chess engine in one Python file, built for make.fun's
-tiny-chess-01 bounty. The entrypoint `main.py` is 4,071 bytes: the
+tiny-chess-01 bounty. The entrypoint `main.py` is 4,079 bytes: the
 LZMA-packed form of a readable source, produced with the kit's own
 `makefun compress`. The source lives in this repository's working
 tree but is not part of the committed entry.
